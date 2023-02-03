@@ -506,6 +506,9 @@ MIT
 @ngrx/store-devtools
 MIT
 
+angular-responsive-carousel
+Apache License 2.0
+
 firebase/analytics
 
 firebase/app
