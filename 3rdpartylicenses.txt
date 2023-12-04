@@ -598,6 +598,8 @@ file header for details.
 @twogate/ngx-photo-gallery
 MIT
 
+angular-responsive-carousel2
+
 firebase/app
 
 firebase/auth
@@ -641,7 +643,7 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-lodash
+lodash-es
 MIT
 Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
 
